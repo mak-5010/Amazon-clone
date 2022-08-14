@@ -6,6 +6,8 @@ import ShoppingBasketIcon from "@mui/icons-material/ShoppingBasket";
 import { Link } from "react-router-dom";
 
 function Header() {
+  // const cartQuantity = useSelector();
+
   return (
     <>
       <div className="header">
